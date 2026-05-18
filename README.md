@@ -120,6 +120,10 @@ https://github.com/VamsiReddy36-k/Spotify-subscription-prediction
 
 👤 Author
 Vamsi Krishna Reddy
+
 📧 Email: mulintivamsireddy1@gmail.com
+
 🔗 GitHub: https://github.com/VamsiReddy36-k
+
 🔗 LinkedIn: www.linkedin.com/in/vamsi-krishna-reddy-mulinti
+
